@@ -1,4 +1,4 @@
-# Machine Learning for Physics — Project Portfolio
+# Machine Learning for Physics - Project Portfolio
 
 Three deep learning projects on real and simulated physics data, completed as the final project of a graduate-level **Data Science for Physics Graduates** course (Computational Physics I & II) at **Ben-Gurion University of the Negev**, 2026.
 
